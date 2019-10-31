@@ -1,0 +1,2 @@
+# snapshot-rotator
+Rotates snapshots.
