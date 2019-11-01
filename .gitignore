@@ -1,0 +1,8 @@
+/target
+**/*.rs.bk
+
+.idea/
+/target
+**/*.rs.bk
+
+app-config\.json

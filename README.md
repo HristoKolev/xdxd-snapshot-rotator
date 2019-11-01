@@ -1,2 +1,2 @@
-# snapshot-rotator
+# xdxd-snapshot-rotator
 Rotates snapshots.
